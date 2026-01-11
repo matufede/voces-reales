@@ -1,0 +1,5 @@
+{
+  "name": "Voces Reales",
+  "description": "Professional AI Text-to-Speech Studio using Gemini 2.5 Flash TTS.",
+  "requestFramePermissions": []
+}
